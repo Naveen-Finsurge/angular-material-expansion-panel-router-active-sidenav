@@ -9,11 +9,7 @@ export class ProductComponent implements OnInit {
 
   constructor() { }
 
-  opened = true;
-  mode = 'side';
-
   ngOnInit() {
-    // this.opened = true;
   }
 
 
